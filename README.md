@@ -1,4 +1,4 @@
-## PROJECT TITLE
+## mysampletask
 
 Mysampletask is a project in which user details are stored in database at mlab online.
 
