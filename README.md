@@ -11,8 +11,11 @@ Mysampletask is a project in which user details are stored in database at mlab o
 # Install
 
 $ mkdir mysampletask
+
 $ cd mysampletask
+
 $ git clone git://github.com/
+
 $ npm install
 
 # Tests
